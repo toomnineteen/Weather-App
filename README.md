@@ -2,4 +2,4 @@
 
 Using React JS and CSS
 
-Demo : https://toomlangsui-weather-app.netlify.app
+Demo : https://tntdev-weather-app.netlify.app/
